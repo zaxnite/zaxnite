@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AI workflows, LLM-powered systems, and data-driven automation tools.<br><br>👯 I'm looking to collaborate on AI, machine learning, and interesting software or data projects.<br><br>🤝 I'm looking for help with scaling ML pipelines and building robust AI systems.<br><br>🌱 I'm currently learning more about advanced LLM architectures, scalable data pipelines, and intelligent automation.<br><br>💬 Ask me about AI, machine learning, data analytics, Python, and building real-world AI applications.<br><br>⚡ Fun fact: When I'm not coding, you'll probably find me running, swimming, listening to music, or watching movies.
+🔭 I'm currently working on AI workflows, LLM-powered systems, and data-driven automation tools.<br><br>⚙️ I'm looking to collaborate on AI, machine learning, and interesting software or data projects.<br><br>🤝 I'm looking for help with scaling ML pipelines and building robust AI systems.<br><br>🌱 I'm currently learning more about advanced LLM architectures, scalable data pipelines, and intelligent automation.<br><br>💬 Ask me about AI, machine learning, data analytics, Python, and building real-world AI applications.<br><br>⚡ Fun fact: When I'm not coding, you'll probably find me running, swimming, listening to music, or watching movies.
 
 
 ## 🌐 Socials:
